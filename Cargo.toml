@@ -1,0 +1,9 @@
+[package]
+name = "simple-fs"
+version = "0.1.0"
+authors = ["crhino <piraino.chris@gmail.com>"]
+
+[dependencies]
+fuse = ">=0.2"
+time = ">=0.1.34"
+libc = ">=0.2.2"
